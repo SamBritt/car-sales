@@ -1,0 +1,1 @@
+Practice using Object methods: entry(), keys(), values()
